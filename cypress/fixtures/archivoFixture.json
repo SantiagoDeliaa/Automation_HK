@@ -1,0 +1,18 @@
+{
+    "login": {
+        "user": "standard_user",
+        "pass": "secret_sauce",
+        "user2": "problem_user"
+    },
+
+    "ckeckout": {
+        "firstName": "testName",
+        "lastName": "testLastName",
+        "zip": 5000
+    },
+
+    "ckeckoutOverview": {
+        "product": "Sauce Labs Backpack",
+        "price": "$29.99"
+    }
+}
